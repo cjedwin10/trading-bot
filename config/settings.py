@@ -1,0 +1,10 @@
+SYMBOL = "XAUUSD"
+
+TIMEFRAMES = {
+    "HTF": "H1",
+    "LTF": "M5"
+}
+
+RISK_PER_TRADE = 0.01
+
+SLEEP_TIME = 60
